@@ -1,26 +1,16 @@
-Le mal est revenu hanter le donjon… La liche s’est réincarnée. Défaite il y a des années par Hero, le roi immortel, elle est revenue pour assouvir sa vengeance à la tête de ses morts-vivants. Mais de preux aventuriers ont investi son repaire et cherchent à se frayer un passage jusqu’à la maîtresse des lieux, pour la défier et la renvoyer dans la tombe.
+1. BUT DU JEU
+
+Un joueur va diriger une équipe d’aventuriers. On le nomme le joueur aventurier.
+Le joueur aventurier doit combattre et vaincre le monstre final du donjon.
+
+L’autre joueur va diriger le donjon, ses pièges, ses créatures et son monstre final. On le nomme le maître du donjon.
+Le maître du donjon doit mettre en déroute ou bloquer le groupe d’aventuriers afin qu’il n’atteigne pas son but.
 
 
-CONTENU
-4 cartes aventurier ;
-7 cartes équipement ;
-48 cartes donjon ;
-1 carte monstre final ;
-1 dé à 6 faces ;
-1 dé à 12 faces ;
-4 jetons de Mana (BLEU) ;
-4 jetons de Ténacité (JAUNE) ;
-10 jetons de Courage (ROUGE) ;
-10 jetons de Peur (NOIR).
+2. DESCRIPTION DU MATÉRIEL
 
+2.1. Carte aventurier
 
-BUT DU JEU
-Le joueur qui dirige le groupe d’aventuriers doit combattre et vaincre le monstre final du donjon. Le joueur qui dirige le donjon doit mettre en déroute ou bloquer le groupe d’aventuriers afin qu’il n’atteigne pas son but.
-
-
-DESCRIPTION DU MATÉRIEL
-
-Carte aventurier
 Nom (1) : Hero, Immortal King
 Type (2) : Prêtre
 Genre (3) : Masculin
@@ -30,15 +20,18 @@ Pouvoir ultime (6) : gagnez 4 jetons de Courage.
 « YATTA ! »
 F1/60
 
-Chaque carte aventurier comporte 6 informations : son nom (1), son type (2) et son genre (3), qui sont des mots-clés utilisés par d’autres cartes, un don (4) qui fonctionne de façon permanente, un pouvoir temporaire (5) dont l’utilisation nécessite une dépense de Mana et un pouvoir ultime (6) qui ne peut être utilisé qu’à de très rares occasions.
+Chaque carte aventurier comporte 6 informations : son nom (1), son type (2) et son genre (3), qui sont des mots-clés utilisés par d’autres cartes, son don (4) qui fonctionne de façon permanente, un pouvoir temporaire (5) dont l’utilisation nécessite une dépense de Mana et un pouvoir ultime (6) qui ne peut être utilisé qu’à de très rares occasions.
 
 Il existe 4 types d’aventuriers : les guerriers, les prêtres, les roublards et les sorciers.
+Il existe 2 genres d’aventuriers : masculin et féminin.
 
 Utilisation des dons et des pouvoirs
-Chaque aventurier possède un don et deux pouvoirs. Son don est une capacité permanente. Pour utiliser son pouvoir temporaire, un aventurier doit dépenser son jeton de Mana. Un personnage ne peut utiliser son pouvoir ultime que durant une phase d’équipement du tour. Pour ce faire, il doit dépenser une ou plusieurs cartes donjon préalablement gagnées par le joueur aventurier (voir page 10). Le nombre et le type de cartes nécessaires dépendent du nombre d’aventuriers présents dans le groupe. Si le groupe comporte 1 seul personnage, il devra dépenser , si le groupe comporte 2 personnages, il devra dépenser et ainsi de suite…
+Chaque aventurier possède un don et deux pouvoirs. Son don est une capacité permanente.
+Le pouvoir temporaire peut être utiliser pendant la Phase de combat en dépensant son jeton de Mana.
+Le pouvoir ultime ne peut être utiliser que durant la Phase d'équipement en dépensant une carte donjon de chaque couleur par aventurier membre du groupe. Si le groupe comporte 1 seul personnage, il devra dépenser 1 carte donjon de chaque couleur, si le groupe comporte 2 personnages, il devra dépenser 1 cartes donjons de chaque couleur et ainsi de suite…
 
+2.2. Carte équipement
 
-Carte équipement
 Nom (1) : Potion de force
 Type (2) : Potion
 Effets (3) :
@@ -47,35 +40,40 @@ F7/60
 
 Chaque carte équipement comporte 3 informations : son nom (1), son type (2) et ses effets (3) en termes de jeu.
 
-Utilisation des cartes équipement
-Il existe 3 types de cartes équipement : les potions, les objets et les quêtes. Révéler une carte équipement (et donc en déclencher les effets) peut nécessiter la dépense d’une ou plusieurs cartes donjon préalablement gagnées par le joueur aventurier (voir page 10). Le nombre et le type de cartes nécessaires sont indiqués sur chaque carte équipement sous la forme d’icônes similaires à celles que l’on trouve sur les cartes donjon.
+Il existe 3 types de cartes équipement : les potions, les objets et les quêtes. Révéler une carte équipement et donc en déclencher les effets peut nécessiter la dépense d’une ou plusieurs cartes donjon préalablement gagnées par le joueur aventurier (voir Phase de combat 4.3.). Le nombre et le type de cartes nécessaires sont indiqués sur chaque carte équipement sous la forme d’icônes similaires à celles que l’on trouve sur les cartes donjon.
 
-Les potions
+2.2.1. Les potions
 Elles ne peuvent être utilisées qu’une seule fois (elles sont défaussées après avoir été révélées). Elles peuvent être révélées et utilisées à tout moment.
 
-Les objets (armes et armures)
+2.2.2. Les objets (armes et armures)
 Une fois révélée, la carte équipement est placée face visible à côté des cartes aventurier et ses effets sont permanents. Les objets ne peuvent être révélés que durant une phase d’équipement.
 
-Les quêtes
-Une fois révélée, la carte équipement est placée face visible et son effet est résolu. Par la suite, le joueur aventurier pourra en déclencher les effets à nouveau en payant le nombre de cartes donjon indiquées. Il n’y a aucune limite au nombre de fois qu’une quête peut être déclenchée au cours d’une partie. Une quête ne peut être révélée et utilisée que durant une phase d’équipement.
+2.2.3. Les quêtes
+Une fois révélée, la carte quête est placée face visible et son effet est résolu. Par la suite, le joueur aventurier pourra en déclencher les effets à nouveau en payant le nombre de cartes donjon indiquées. Il n’y a aucune limite au nombre de fois qu’une quête peut être déclenchée au cours d’une partie. Une quête ne peut être révélée et utilisée que durant une phase d’équipement.
 
+2.3. Carte donjon
 
-Carte donjon
 Nom (1) : Orc assassin
 Type (2) : Vert
 Famille (3) : Peau-Verte
 Mana (6) : non
 Puissance (4) : PFC / 4
-Capacités (5) :
+Capacités spéciales (5) :
     Némésis +1
 F12/60
 
-Chaque carte donjon comporte 6 informations : son nom (1), son type (2), sa famille (3), sa Puissance (4), ses capacités spéciales éventuelles (5) et, dans certains cas, son icône de Mana (6).
+Chaque carte donjon comporte 6 informations : son nom (1), son type (2), sa famille (3), sa puissance (4), ses capacités spéciales (5) et son icône de Mana (6).
 
-Il existe 4 types de cartes donjon : les vertes, les jaunes, les bleues et les rouges. Il existe 6 familles de cartes donjon : les démons, les morts-vivants, les dragons, les Peaux-Vertes, les bulloeils et les pièges. On ne trouve des bulloeils que dans l’antre de la folie. On ne trouve pas de piège dans le repaire de la liche.
+Il existe 4 types de cartes donjon : les vertes, les jaunes, les bleues et les rouges.
+Il existe 6 familles de cartes donjon : les démons, les morts-vivants, les dragons, les Peaux-Vertes, les bulloeils et les pièges.
 
+Les pièges
+Les pièges sont gérés comme des cartes donjon normales, à une exception près : si les aventuriers ne parviennent pas à obtenir un résultat supérieur ou égal à sa Puissance, une carte de piège est tout de même vaincue et conservée par le joueur aventurier. Toutefois, il perd bel et bien 1 jeton de Courage pour symboliser son échec. Les monstres et les pièges sont des cartes donjon, mais un effet qui affecte spécifiquement un monstre n’affecte pas un piège et vice-versa. Par contre, un effet qui affecte une carte donjon affecte les deux.
 
-Carte monstre final
+Les Peaux-Vertes
+La Puissance des Peaux-Vertes n’est indiquée que dans le cas du jeu en solitaire (ils ont tous une Puissance de 4). Lors d’une partie normale à 2 joueurs, tous les combats contre les Peaux-Vertes se déroulent sous la forme d’une partie de pierre/feuille/ciseaux (PFC), le joueur aventurier gagnant tous les ex aequo.
+
+2.4. Carte monstre final
 
 Nom (1) : Liche
 Famille (2) : Mort-vivant - Monstre final
@@ -84,11 +82,11 @@ Capacités (4) :
     Vous commencez la partie avec 2 jetons de Peur par aventurier (au lieu de 1).
 F60/60
 
-La carte du monstre final comporte 4 informations : son nom (1), sa famille (2), sa Puissance (3) et une capacité spéciale (4).
+La carte du monstre final comporte 4 informations : son nom (1), sa famille (2), sa Puissance (3) et ses capacités spéciales (4).
 
 
-Préparation de la partie
-Un joueur va diriger une équipe d’aventuriers. On le nomme dans les règles qui suivent le joueur aventurier. L’autre va diriger le donjon, ses pièges, ses créatures et son monstre final. On le nomme le maître du donjon.
+3. Préparation de la partie
+
 Dans un premier temps, le joueur aventurier doit choisir les personnages avec lesquels il va affronter le donjon. Il doit choisir entre 1 et 4 personnages. Il place devant lui, face visible, les cartes aventurier correspondantes. Une fois ce choix effectué, il pourra ajouter entre 1 et 4 cartes équipement en sachant qu’au total, son groupe devra être constitué de 5 cartes (ni plus, ni moins). Les cartes équipement choisies sont placées face cachée sur la table. Le joueur aventurier peut les regarder quand il le désire, mais ne les révèlera que lorsqu’il les utilisera.
 
 Le maître du donjon mélange les 48 cartes donjon et forme 3 paquets face cachée au milieu de la table. Chaque paquet doit comporter 16 cartes. Ces trois paquets représentent les trois couloirs que les aventuriers devront emprunter pour parvenir à leur but. Aucun joueur ne peut en prendre connaissance. Il place la carte monstre final face visible devant lui.
@@ -97,7 +95,8 @@ On distribue ensuite les jetons de départ : le maître du donjon commence la pa
 
 Pour finir, le maître du donjon retourne face visible la carte du dessus de chacun de ses paquets de cartes donjon. Ce sont les trois premières rencontres auxquelles les aventuriers pourront être confrontés. Ces 3 cartes sont placées respectivement devant les 3 paquets symbolisant le chemin gardé (voir schéma ci-dessous).
 
-Déroulement d'un tour de jeu
+
+4. Déroulement d'un tour de jeu
 Le principe du jeu est simple : à chaque tour, le groupe d’aventuriers va tenter de vaincre une des 3 rencontres placées devant lui par le maître du donjon. Généralement, cela implique un jet de dé. Lorsque les cartes donjon sont vaincues, le joueur aventurier les garde près de lui afin de déclencher par la suite les effets de ses équipements et/ou de ses pouvoirs ultimes. Au fur et à mesure de la partie, les trois tas de cartes vont diminuer. Dès qu’un des tas est entièrement vide, la voie est libre et le groupe d’aventuriers peut tenter de tuer le monstre final du donjon. Si le groupe est démoralisé avant que cela n’arrive (c’est-à-dire s’il ne possède plus aucun jeton de Courage), le joueur aventurier a perdu la partie. 
 
 Généralement, lorsque le joueur aventurier essaye de vaincre une carte donjon, il lance 1d6 et tente d’obtenir un résultat supérieur ou égal à la Puissance de la carte donjon. Mais comme vous le verrez par la suite, tout n’est pas aussi simple puisque tous les personnages possèdent des dons et des pouvoirs qui modifient cette règle élémentaire.
@@ -107,11 +106,11 @@ Pour utiliser son pouvoir temporaire, un aventurier doit défausser son jeton de
 
 La partie est divisée en un nombre indéterminé de tours. À chaque tour, on doit effectuer les trois phases détaillées ci-dessous. 
 
-Phase de construction
+4.1. Phase de construction
 Le maître du donjon regarde la carte donjon du dessus de chacun de ses 3 paquets. Il peut ensuite choisir d’en intervertir deux sur les trois.
 Attention : on intervertit les paquets entiers et pas seulement les cartes regardées ! Si un couloir est vide (plus de cartes), on ne peut intervertir que les paquets des deux autres.
 
-Phase d’équipement
+4.2. Phase d’équipement
 Durant cette phase, le joueur aventurier peut révéler ses cartes équipement. Les personnages peuvent aussi utiliser leurs pouvoirs ultimes. Dans tous les cas, le coût d’activation de toutes ces actions doit être réglé en défaussant des cartes donjon portant les symboles correspondants (voir page 4).
 Sauf précisions contraires, les cartes donjon éliminées pendant cette phase via une quête ou un pouvoir ultime sont gérées comme celles éliminées durant la phase de combat.
 
@@ -124,38 +123,21 @@ Embuscade : lorsqu’une nouvelle carte donjon est placée devant le joueur aven
 Ténacité : lorsqu’une nouvelle carte donjon représentant un monstre (pas un piège !) est placée devant le joueur aventurier (après l’élimination de la précédente), le maître du donjon peut choisir de placer dessus 1 jeton de Ténacité en dépensant 2 jetons de Peur. Utilisable uniquement durant la phase de combat. Un jeton de Ténacité augmente de 1 la Puissance du monstre sur lequel il est posé. Il est impossible de placer plusieurs jetons de Ténacité sur une même carte.
 Destin funeste : le maître du donjon peut dépenser 3 jetons de Peur pour obliger le joueur aventurier à relancer un dé de combat. Il doit le faire avant que le joueur aventurier ne décide d’appliquer un pouvoir à ce jet de dé. Le maître du donjon peut parfaitement tendre une embuscade et rendre tenace la même carte en dépensant 3 jetons de Peur.
 
-Phase de combat
+4.3. Phase de combat
 Le groupe d’aventuriers choisit un couloir et tente de vaincre la rencontre ainsi déterminée. Si la carte correspondant à ce couloir est face visible, le joueur aventurier sait déjà à qui il a affaire. Si ce n’est pas le cas, le maître du donjon retourne la carte face visible au début du combat.
 Tous les aventuriers combattent en même temps et avec un seul jet de dé la rencontre ainsi dévoilée. À moins qu’une règle spéciale ne précise le contraire, le combat est résolu en jetant 1d6.
 Les personnages peuvent utiliser leurs dons, leurs armes et armures déjà révélés, les pouvoirs temporaires (en dépensant leur Mana) et d’éventuelles potions avant ou après avoir jeté le dé. On ne peut pas révéler d’objets, déclencher de pouvoir ultime ou utiliser des quêtes durant cette phase.
 Si le résultat obtenu est supérieur ou égal à la Puissance de la carte donjon, cette dernière est vaincue et le joueur aventurier la conserve près de lui. Il pourra la dépenser ultérieurement pour payer le coût d’une quête, d’un objet ou d’un pouvoir ultime. Le maître du donjon doit ensuite remplacer la carte ainsi vaincue par la carte du dessus du paquet qui se trouve juste derrière. Normalement, la nouvelle carte est placée face visible, mais le maître du donjon peut utiliser à ce moment précis ses capacités d’embuscade et de ténacité s’il le désire (voir page 11). Si la carte donjon vaincue porte une icône Mana, le joueur aventurier peut placer 1 jeton de Mana sur un de ses personnages.
 Si le résultat final obtenu (après modificateurs éventuels) est inférieur à la Puissance de la carte donjon, les personnages doivent reculer pour panser leurs blessures et reprendre des forces. Le joueur aventurier perd immédiatement 1 jeton de Courage et le maître du donjon gagne 1 jeton de Peur. La carte attaquée reste en place (exception : les pièges, voir encadré).
 
-Les pièges
-Les pièges sont gérés comme des cartes donjon normales, à une exception près : si les aventuriers ne parviennent pas à obtenir un résultat supérieur ou égal à sa Puissance, une carte de piège est tout de même vaincue et conservée par le joueur aventurier. Toutefois, il perd bel et bien 1 jeton de Courage pour symboliser son échec. Les monstres et les pièges sont des cartes donjon, mais un effet qui affecte spécifiquement un monstre n’affecte pas un piège et vice-versa. Par contre, un effet qui affecte une carte donjon affecte les deux. On ne trouve pas de piège dans le repaire de la liche.
+Le jeu du pierre/feuille/ciseaux
+Les deux joueurs font simultanément avec leur main le geste représentant une feuille, une pierre ou des ciseaux. La feuille bat la pierre, mais est battue par les ciseaux. La pierre bat les ciseaux, mais est battue par la feuille et pour finir, les ciseaux battent la feuille, mais sont battus par la pierre. Contre les Peaux-Vertes, en cas d’égalité, c’est le joueur aventurier qui est déclaré vainqueur. Sinon, on rejoue les égalités.
 
-Les Peaux-Vertes
-La Puissance des Peaux-Vertes n’est indiquée que dans le cas du jeu en solitaire (ils ont tous une Puissance de 4). Lors d’une partie normale à 2 joueurs, tous les combats contre les Peaux-Vertes se déroulent sous la forme d’une partie de pierre/feuille/ciseaux (PFC), le joueur aventurier gagnant tous les ex aequo.
-
-Phase de fin de tour
+4.4 Phase de fin de tour
 Durant cette phase, si le joueur aventurier ne possède plus aucun jeton de Courage, la partie est terminée et il a perdu. Si le monstre final vient d’être tué et que le joueur aventurier possède encore au moins 1 jeton de Courage, il a gagné la partie. Dans tous les autres cas, on entame un nouveau tour.
 
-Capacités spéciales des cartes donjon
-1d6 : la Puissance de cette carte est déterminée à l’aide d’un dé à 6 faces. Chaque fois que la carte est attaquée, on jette le dé à nouveau.
-A : lorsque cette lettre est associée à la Puissance d’une carte, on considère qu’elle est égale au nombre d’aventuriers présents dans le groupe.
-Douleur : si les aventuriers ne parviennent pas à vaincre cette carte donjon, le joueur aventurier perd 2 jetons de Courage au lieu d’un.
-Dragons +X : toutes les cartes donjon de la famille dragon voient leur Puissance augmenter de X lorsque cette carte est face visible.
-Garde du corps : lorsque cette carte donjon est vaincue, le maître du donjon peut immédiatement placer un jeton de Ténacité sur la carte monstre face visible de son choix (jamais sur un piège).
-Hargneux : lorsque cette carte donjon possède un jeton de Ténacité, elle gagne un bonus de Puissance de 2 (au lieu de 1).
-M : lorsque cette lettre est associée à la Puissance d’une carte, on considère qu’elle est égale au nombre de jetons de Mana présents dans le groupe des aventuriers au début du combat.
-Monstre final : les pouvoirs ultimes ne fonctionnent pas sur un monstre final.
-Morts-vivants +X : toutes les cartes donjon de la famille mort-vivant voient leur Puissance augmenter de X lorsque cette carte est face visible.
-Némésis X : cette carte possède deux valeurs de Puissance. Si le groupe d’aventuriers comporte un personnage de type X, on prend en compte la valeur de droite. Sinon, on utilise la valeur de gauche.
-Némésis + X : toutes les cartes donjon possédant la capacité spéciale Némésis voient leur Puissance augmenter de X lorsque cette carte est face visible.
-Trésor : une fois cette carte vaincue, elle compte comme possédant tous les symboles de couleur. Elle peut donc être utilisée comme un « joker » pour payer le coût d’un pouvoir ultime, d’une quête ou d’un objet.
-Unique : cette capacité concerne uniquement le jeu construit (voir page 18).
 
-Précisions concernant les aventuriers et leur équipement
+5. Précisions concernant les aventuriers et leur équipement
 Vous pouvez parfaitement combiner plusieurs dons, pouvoirs et effets venant d’aventuriers ou équipements différents.
 Lorsqu’on vous accorde un bonus et un multiplicateur, on prend d’abord en compte le multiplicateur avant d’ajouter le bonus. Notez aussi qu’un jet de combat ne peut être multiplié qu’une seule fois.
 Lorsqu’un don, un équipement ou un pouvoir affecte un élément du jeu, c’est toujours le joueur aventurier qui choisit qui est affecté. Lorsqu’un effet offre un modificateur (exemple : +2 à votre jet de combat), la valeur est ajoutée ou retranchée au résultat du dé.
@@ -173,24 +155,79 @@ Le joueur aventurier utilise le pouvoir temporaire de Nova et double le résulta
 Abunakkashii est donc battu.
 
 
-Annexe I : le jeu du pierre/feuille/ciseaux
-Les deux joueurs font simultanément avec leur main le geste représentant une feuille, une pierre ou des ciseaux. La feuille bat la pierre, mais est battue par les ciseaux. La pierre bat les ciseaux, mais est battue par la feuille et pour finir, les ciseaux battent la feuille, mais sont battus par la pierre. Contre les Peaux-Vertes, en cas d’égalité, c’est le joueur aventurier qui est déclaré vainqueur. Sinon, on rejoue les égalités.
+Annexe I : Capacités spéciales des cartes donjon
+1d6 : la Puissance de cette carte est déterminée à l’aide d’un dé à 6 faces. Chaque fois que la carte est attaquée, on jette le dé à nouveau.
+A : lorsque cette lettre est associée à la Puissance d’une carte, on considère qu’elle est égale au nombre d’aventuriers présents dans le groupe.
+Douleur : si les aventuriers ne parviennent pas à vaincre cette carte donjon, le joueur aventurier perd 2 jetons de Courage au lieu d’un.
+Dragons +X : toutes les cartes donjon de la famille dragon voient leur Puissance augmenter de X lorsque cette carte est face visible.
+Garde du corps : lorsque cette carte donjon est vaincue, le maître du donjon peut immédiatement placer un jeton de Ténacité sur la carte monstre face visible de son choix (jamais sur un piège).
+Hargneux : lorsque cette carte donjon possède un jeton de Ténacité, elle gagne un bonus de Puissance de 2 (au lieu de 1).
+M : lorsque cette lettre est associée à la Puissance d’une carte, on considère qu’elle est égale au nombre de jetons de Mana présents dans le groupe des aventuriers au début du combat.
+Monstre final : les pouvoirs ultimes ne fonctionnent pas sur un monstre final.
+Morts-vivants +X : toutes les cartes donjon de la famille mort-vivant voient leur Puissance augmenter de X lorsque cette carte est face visible.
+Némésis X : cette carte possède deux valeurs de Puissance. Si le groupe d’aventuriers comporte un personnage de type X, on prend en compte la valeur de droite. Sinon, on utilise la valeur de gauche.
+Némésis + X : toutes les cartes donjon possédant la capacité spéciale Némésis voient leur Puissance augmenter de X lorsque cette carte est face visible.
+Trésor : une fois cette carte vaincue, elle compte comme possédant tous les symboles de couleur. Elle peut donc être utilisée comme un « joker » pour payer le coût d’un pouvoir ultime, d’une quête ou d’un objet.
+Unique : cette capacité concerne uniquement le jeu construit (voir page 18).
 
 
 Annexe II : jeu construit
-Le donjon que vous venez d’acquérir est prévu pour être parfaitement équilibré avec l’équipe d’aventuriers qui va l’explorer. Néanmoins, en combinant plusieurs boîtes de Hero I.K., vous pouvez créer vos propres donjons ainsi que des équipes d’aventuriers plus pittoresques. On peut aussi combiner plusieurs boîtes identiques.
-Règles de création de donjon : le donjon doit comporter exactement 48 cartes, plus un monstre final. Il doit y avoir 12 monstres de chaque couleur, et dans chaque couleur, 6 cartes doivent porter une icône de Mana. Il n’y a aucune autre limitation.
-Règles de création d’un groupe d’aventuriers : identique au jeu normal (exactement 5 cartes et au moins 1 aventurier) mais les cartes peuvent être choisies dans toutes les boîtes que vous possédez. Note importante : tous les aventuriers sont uniques (voir ci-dessous).
-Exception importante : une carte indiquée comme étant unique ne peut être présente qu’en un seul exemplaire dans un donjon ou dans un groupe d’aventuriers.
+
+Vous pouvez combiner plusieurs boîtes de Hero I.K. et ainsi créer vos propres donjons ainsi que constituer des équipes d’aventuriers plus pittoresques.
+
+Règles de création de donjon :
+- le donjon doit comporter exactement 48 cartes donjon plus une carte monstre final ;
+- il doit y avoir 12 cartes donjon de chaque couleur ;
+- dans chaque couleur, 6 cartes doivent porter une icône de Mana ;
+- une carte indiquée comme étant unique ne peut être présente qu’en un seul exemplaire.
+
+Règles de création d’un groupe d’aventuriers :
+- tous les aventuriers sont considérés comme uniques
+- le joueur aventurier doit choisir exactement 5 cartes dont au moins 1 aventurier.
+- une carte indiquée comme étant unique ne peut être présente qu’en un seul exemplaire.
 
 
 Annexe III : jeu en solitaire
-Hero I.K. peut aussi être joué en solitaire. La plupart des règles sont identiques, mais personne ne joue le rôle du maître du donjon. En solitaire, le joueur conçoit un groupe d’aventuriers et tente de tuer le monstre final. S’il n’y parvient pas, il a perdu. Après avoir constitué votre groupe, choisissez un des scénarios présentés ci-après. Les trois scénarios sont de difficulté croissante. Vous pouvez créer d’autres scénarios ou en télécharger sur le site www.asmodee.com.
-La phase de construction n’existe pas dans le jeu solo.
-Lorsqu’une carte donjon est vaincue, elle est remplacée par la suivante dans le tas concerné. Le donjon commence la partie avec 0 jeton de Peur. Le donjon ne gagne pas de jeton de Peur lorsque le joueur obtient un 1 sur un dé. Les Peaux-Vertes ont toutes une Puissance de 4. Lorsqu’un monstre Hargneux entre en jeu, il reçoit automatiquement un jeton de Ténacité (sans dépense de jeton de Peur). Lorsqu’un monstre Garde du corps est vaincu, on pose un jeton de Ténacité sur le monstre en jeu qui possède la Puissance la plus faible. En cas d’égalité, on le détermine aléatoirement parmi les plus faibles. Si le plus faible en possède déjà un, on choisit le monstre suivant. S’ils possèdent tous un jeton de Ténacité, il ne se passe rien.
+
+Hero I.K. peut aussi être joué en solitaire. La plupart des règles sont identiques, mais personne ne joue le rôle du maître du donjon. En solitaire, le joueur conçoit un groupe d’aventuriers et tente de tuer le monstre final. S’il n’y parvient pas, il a perdu.
+
+AIII.1. Préparation de la partie
+
+Le joueur doit choisir les personnages avec lesquels il va affronter le donjon. Il doit choisir entre 1 et 4 personnages. Il place devant lui, face visible, les cartes aventurier correspondantes. Une fois ce choix effectué, il pourra ajouter entre 1 et 4 cartes équipement en sachant qu’au total, son groupe devra être constitué de 5 cartes (ni plus, ni moins). Les cartes équipement choisies sont placées face cachée sur la table. Le joueur aventurier peut les regarder quand il le désire, mais ne les révèlera que lorsqu’il les utilisera.
+
+Après avoir constitué votre groupe, choisissez un des scénarios présentés ci-après.
+
+Le joueur mélange les 48 cartes donjon et forme 3 paquets face cachée au milieu de la table. Chaque paquet doit comporter 16 cartes. Ces trois paquets représentent les trois couloirs que les aventuriers devront emprunter pour parvenir à leur but. Le joueur ne peut en prendre connaissance. Il place la carte monstre final face visible devant lui.
+
+Le joueur commence la partie avec 5 jetons de Courage devant lui et 1 jeton de Mana sur chacune de ses cartes aventurier.
+
+Pour finir, le joueur retourne face visible la carte du dessus de chacun de des paquets de cartes donjon. Ce sont les trois premières rencontres auxquelles les aventuriers pourront être confrontés. Ces 3 cartes sont placées respectivement devant les 3 paquets symbolisant le chemin gardé (voir schéma ci-dessous).
+
+
+AIII.2. Déroulement d'un tour de jeu
+
+AIII.2.1. Phase de construction
+Rien ne se passe
+
+AIII.2.2. Phase d'équipement
+identique à la version 2 joueurs
+
+AIII.2.3. Phase de combat
+Le donjon ne gagne pas de jeton de Peur lorsque le joueur obtient un 1 sur un dé.
+Les Peaux-Vertes ont toutes une Puissance de 4.
+Lorsqu’un monstre Hargneux entre en jeu, il reçoit automatiquement un jeton de Ténacité (sans dépense de jeton de Peur).
+Lorsqu’un monstre Garde du corps est vaincu, on pose un jeton de Ténacité sur le monstre en jeu qui possède la Puissance la plus faible. En cas d’égalité, on le détermine aléatoirement parmi les plus faibles. Si le plus faible en possède déjà un, on choisit le monstre suivant. S’ils possèdent tous un jeton de Ténacité, il ne se passe rien.
 Chaque fois que le donjon gagne un jeton de Peur, on consulte l’échelle du destin de chaque scénario et on applique les effets indiqués (les effets en italique sont cumulatifs et permanents, les autres ne sont déclenchés qu’une seule fois).
 
-Sombre soir
+AIII.2.4. Phase de fin de tour
+identique à la version 2 joueurs
+
+
+AIV. Scénarios solo
+
+AIV.1. Scénarios pour Le repaire de la liche
+
+AIV.1.1. Sombre soir
 Scénario facile
 Échelle du destin : Événement
 1 : L’alerte est donnée, vous êtes repérés. Posez un jeton de Ténacité sur le ou les monstres les plus faibles s’ils n’en possèdent pas.
@@ -204,7 +241,7 @@ Scénario facile
 9 : Dernier rempart. Toutes les cartes gagnent un bonus de +1 Puissance.
 10 : La Liche gagne la partie !
 
-À la recherche d’Abunakkashii
+AIV.1.2. À la recherche d’Abunakkashii
 Scénario moyen
 Échelle du destin : Événement
 1 : Rien ne se passe.
@@ -217,7 +254,7 @@ Scénario moyen
 8 : Rien ne se passe.
 9 : La Liche gagne la partie !
 
-Rencontre avec la Liche
+AIV.1.3. Rencontre avec la Liche
 Scénario difficile
 Échelle du destin : Événement
 1 : C’est un traquenard ! Posez un jeton de Ténacité sur chaque monstre qui n’en possède pas.
