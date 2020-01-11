@@ -71,7 +71,7 @@ Les pièges
 Les pièges sont gérés comme des cartes donjon normales, à une exception près : si les aventuriers ne parviennent pas à obtenir un résultat supérieur ou égal à sa Puissance, une carte de piège est tout de même vaincue et conservée par le joueur aventurier. Toutefois, il perd bel et bien 1 jeton de Courage pour symboliser son échec. Les monstres et les pièges sont des cartes donjon, mais un effet qui affecte spécifiquement un monstre n’affecte pas un piège et vice-versa. Par contre, un effet qui affecte une carte donjon affecte les deux.
 
 Les Peaux-Vertes
-La Puissance des Peaux-Vertes n’est indiquée que dans le cas du jeu en solitaire (ils ont tous une Puissance de 4). Lors d’une partie normale à 2 joueurs, tous les combats contre les Peaux-Vertes se déroulent sous la forme d’une partie de pierre/feuille/ciseaux (PFC), le joueur aventurier gagnant tous les ex aequo.
+La Puissance des Peaux-Vertes n’est indiquée que dans le cas du jeu en solitaire (ils ont tous une Puissance de 4). Lors d’une partie normale à 2 joueurs, tous les combats contre les Peaux-Vertes se déroulent sous la forme d’une partie de pierre/feuille/ciseaux (PFC), le joueur aventurier gagnant tous les ex æquo.
 
 2.4. Carte monstre final
 
@@ -87,7 +87,7 @@ La carte du monstre final comporte 4 informations : son nom (1), sa famille (2),
 
 3. Préparation de la partie
 
-Dans un premier temps, le joueur aventurier doit choisir les personnages avec lesquels il va affronter le donjon. Il doit choisir entre 1 et 4 personnages. Il place devant lui, face visible, les cartes aventurier correspondantes. Une fois ce choix effectué, il pourra ajouter entre 1 et 4 cartes équipement en sachant qu’au total, son groupe devra être constitué de 5 cartes (ni plus, ni moins). Les cartes équipement choisies sont placées face cachée sur la table. Le joueur aventurier peut les regarder quand il le désire, mais ne les révèlera que lorsqu’il les utilisera.
+Dans un premier temps, le joueur aventurier doit choisir les personnages avec lesquels il va affronter le donjon. Il doit choisir entre 1 et 4 personnages. Il place devant lui, face visible, les cartes aventurier correspondantes. Une fois ce choix effectué, il pourra ajouter entre 1 et 4 cartes équipement en sachant qu’au total, son groupe devra être constitué de 5 cartes (ni plus, ni moins). Les cartes équipement choisies sont placées face cachée sur la table. Le joueur aventurier peut les regarder quand il le désire, mais ne les révélera que lorsqu’il les utilisera.
 
 Le maître du donjon mélange les 48 cartes donjon et forme 3 paquets face cachée au milieu de la table. Chaque paquet doit comporter 16 cartes. Ces trois paquets représentent les trois couloirs que les aventuriers devront emprunter pour parvenir à leur but. Aucun joueur ne peut en prendre connaissance. Il place la carte monstre final face visible devant lui.
 
@@ -157,16 +157,24 @@ Abunakkashii est donc battu.
 
 Annexe I : Capacités spéciales des cartes donjon
 1d6 : la Puissance de cette carte est déterminée à l’aide d’un dé à 6 faces. Chaque fois que la carte est attaquée, on jette le dé à nouveau.
+1d8 : la Puissance de cette carte est déterminée à l’aide d’un dé à 8 faces. Chaque fois que la carte est attaquée, on jette le dé à nouveau.
+1d10 : la Puissance de cette carte est déterminée à l’aide d’un dé à 10 faces. Chaque fois que la carte est attaquée, on jette le dé à nouveau.
 A : lorsque cette lettre est associée à la Puissance d’une carte, on considère qu’elle est égale au nombre d’aventuriers présents dans le groupe.
+Bulloeils +X : toutes les cartes donjon de la famille Bulloeils voient leur Puissance augmenter de X lorsque cette carte est face visible.
 Douleur : si les aventuriers ne parviennent pas à vaincre cette carte donjon, le joueur aventurier perd 2 jetons de Courage au lieu d’un.
 Dragons +X : toutes les cartes donjon de la famille dragon voient leur Puissance augmenter de X lorsque cette carte est face visible.
 Garde du corps : lorsque cette carte donjon est vaincue, le maître du donjon peut immédiatement placer un jeton de Ténacité sur la carte monstre face visible de son choix (jamais sur un piège).
 Hargneux : lorsque cette carte donjon possède un jeton de Ténacité, elle gagne un bonus de Puissance de 2 (au lieu de 1).
+Immunité X : cette carte donjon ne peut pas être vaincue si le dé indique un résultat de X. Exemple : Immunité 6 signifie qu'un dé indiquant 6 est toujours un échec pour le groupe d'aventuriers, quels que soient les bonus ou multiplicateurs qu'on peut lui affecter par la suite.
 M : lorsque cette lettre est associée à la Puissance d’une carte, on considère qu’elle est égale au nombre de jetons de Mana présents dans le groupe des aventuriers au début du combat.
 Monstre final : les pouvoirs ultimes ne fonctionnent pas sur un monstre final.
 Morts-vivants +X : toutes les cartes donjon de la famille mort-vivant voient leur Puissance augmenter de X lorsque cette carte est face visible.
 Némésis X : cette carte possède deux valeurs de Puissance. Si le groupe d’aventuriers comporte un personnage de type X, on prend en compte la valeur de droite. Sinon, on utilise la valeur de gauche.
 Némésis + X : toutes les cartes donjon possédant la capacité spéciale Némésis voient leur Puissance augmenter de X lorsque cette carte est face visible.
+P : lorsque cette lettre est associée à la Puissance d’une carte, on considère qu’elle est égale au nombre de jetons de Peur possédés par le joueur donjon au début du combat.
+Psi : si cette carte est vaincue pendant la phase de combat (et uniquement durant cette phase), le maître du donjon peut défausser un jeton de Mana présent sur un aventurier de son choix.
+Pièges +X : toutes les cartes donjon de la famille piège voient leur Puissance augmenter de X lorsque cette carte est face visible.
+Suprématie : si le Maître du donjon possède plus de jetons de peur que le joueur aventurier ne possède de jetons de Courage, cette carte reçoit un bonus de puissance de 2.
 Trésor : une fois cette carte vaincue, elle compte comme possédant tous les symboles de couleur. Elle peut donc être utilisée comme un « joker » pour payer le coût d’un pouvoir ultime, d’une quête ou d’un objet.
 Unique : cette capacité concerne uniquement le jeu construit (voir page 18).
 
@@ -193,7 +201,7 @@ Hero I.K. peut aussi être joué en solitaire. La plupart des règles sont ident
 
 AIII.1. Préparation de la partie
 
-Le joueur doit choisir les personnages avec lesquels il va affronter le donjon. Il doit choisir entre 1 et 4 personnages. Il place devant lui, face visible, les cartes aventurier correspondantes. Une fois ce choix effectué, il pourra ajouter entre 1 et 4 cartes équipement en sachant qu’au total, son groupe devra être constitué de 5 cartes (ni plus, ni moins). Les cartes équipement choisies sont placées face cachée sur la table. Le joueur aventurier peut les regarder quand il le désire, mais ne les révèlera que lorsqu’il les utilisera.
+Le joueur doit choisir les personnages avec lesquels il va affronter le donjon. Il doit choisir entre 1 et 4 personnages. Il place devant lui, face visible, les cartes aventurier correspondantes. Une fois ce choix effectué, il pourra ajouter entre 1 et 4 cartes équipement en sachant qu’au total, son groupe devra être constitué de 5 cartes (ni plus, ni moins). Les cartes équipement choisies sont placées face cachée sur la table. Le joueur aventurier peut les regarder quand il le désire, mais ne les révélera que lorsqu’il les utilisera.
 
 Après avoir constitué votre groupe, choisissez un des scénarios présentés ci-après.
 
@@ -217,6 +225,7 @@ Le donjon ne gagne pas de jeton de Peur lorsque le joueur obtient un 1 sur un d�
 Les Peaux-Vertes ont toutes une Puissance de 4.
 Lorsqu’un monstre Hargneux entre en jeu, il reçoit automatiquement un jeton de Ténacité (sans dépense de jeton de Peur).
 Lorsqu’un monstre Garde du corps est vaincu, on pose un jeton de Ténacité sur le monstre en jeu qui possède la Puissance la plus faible. En cas d’égalité, on le détermine aléatoirement parmi les plus faibles. Si le plus faible en possède déjà un, on choisit le monstre suivant. S’ils possèdent tous un jeton de Ténacité, il ne se passe rien.
+Lorsqu'un monstre Psi est vaincu, le joueur choisit quel aventurier perd un jeton de Mana.
 Chaque fois que le donjon gagne un jeton de Peur, on consulte l’échelle du destin de chaque scénario et on applique les effets indiqués (les effets en italique sont cumulatifs et permanents, les autres ne sont déclenchés qu’une seule fois).
 
 AIII.2.4. Phase de fin de tour
@@ -229,39 +238,169 @@ AIV.1. Scénarios pour Le repaire de la liche
 
 AIV.1.1. Sombre soir
 Scénario facile
-Échelle du destin : Événement
-1 : L’alerte est donnée, vous êtes repérés. Posez un jeton de Ténacité sur le ou les monstres les plus faibles s’ils n’en possèdent pas.
-2 : Les Peaux-Vertes se mettent en marche. Les Peaux-Vertes gagnent un bonus de +1 Puissance.
-3 : Rien ne se passe.
-4 : Union d’outre-tombe. Les mortsvivants gagnent un bonus de +1 Puissance.
-5 : Rien ne se passe.
-6 : Ordre de bataille. Les cartes situées dans le ou les couloirs centraux gagnent un bonus de +1 Puissance.
-7 : Rien ne se passe.
-8 : Rien ne se passe.
-9 : Dernier rempart. Toutes les cartes gagnent un bonus de +1 Puissance.
-10 : La Liche gagne la partie !
+Échelle du destin > Évènement
+01 > L’alerte est donnée, vous êtes repérés.
+    Immédiat : Posez un jeton de Ténacité sur le ou les monstres les plus faibles s’ils n’en possèdent pas.
+02 > Les Peaux-Vertes se mettent en marche.
+    Permanent : Les Peaux-Vertes gagnent un bonus de +1 Puissance.
+03 > Rien ne se passe.
+04 > Union d’outre-tombe.
+    Permanent : Les mortsvivants gagnent un bonus de +1 Puissance
+05 > Rien ne se passe.
+06 > Ordre de bataille.
+    Permanent : Les cartes situées dans le ou les couloirs centraux gagnent un bonus de +1 Puissance.
+07 > Rien de ne passe.
+08 > Rien de ne passe.
+09 > Dernier rempart.
+    Permanent : Toutes les cartes gagnent un bonus de +1 Puissance.
+10 > La Liche gagne la partie !
 
 AIV.1.2. À la recherche d’Abunakkashii
 Scénario moyen
-Échelle du destin : Événement
-1 : Rien ne se passe.
-2 : La Liche vous attend, les troupes sont motivées. Posez un jeton de Ténacité sur chaque monstre qui n’en possède pas.
-3 : Cri dans la nuit, la Liche vous atteint par magie. Un aventurier de votre choix perd 1 jeton de Mana.
-4 : Rien ne se passe.
-5 : Union d’outre-tombe. Les mortsvivants gagnent un bonus de +1 Puissance.
-6 : Invocation générale. Les démons gagnent un bonus de +1 Puissance.
-7 : Rencontre avec Abunakkashii. Abunakkashii et ses fils gagnent un bonus de +2 Puissance.
-8 : Rien ne se passe.
-9 : La Liche gagne la partie !
+Échelle du destin > Évènement
+01 > Rien de ne passe.
+02 > La Liche vous attend, les troupes sont motivées.
+    Immédiat : Posez un jeton de Ténacité sur chaque monstre qui n’en possède pas.
+03 > Cri dans la nuit, la Liche vous atteint par magie
+    Immédiat : Un aventurier de votre choix perd 1 jeton de Mana.
+04 > Rien de ne passe.
+05 > Union d’outre-tombe.
+    Permanent : Les mortsvivants gagnent un bonus de +1 Puissance.
+06 > Invocation générale.
+    Permanent : Les démons gagnent un bonus de +1 Puissance.
+07 > Rencontre avec Abunakkashii.
+    Permanent : Abunakkashii et ses fils gagnent un bonus de +2 Puissance.
+08 > Rien de ne passe.
+09 > La Liche gagne la partie !
 
 AIV.1.3. Rencontre avec la Liche
 Scénario difficile
-Échelle du destin : Événement
-1 : C’est un traquenard ! Posez un jeton de Ténacité sur chaque monstre qui n’en possède pas.
-2 : Toute fuite est impossible. Les cartes situées dans les deux couloirs extérieurs gagnent un bonus de +1 Puissance.
-3 : Cri dans la nuit, la Liche vous atteint par magie. Un aventurier de votre choix perd 1 jeton de Mana.
-4 : Rien ne se passe.
-5 : Union d’outre-tombe. Les mortsvivants gagnent un bonus de +1 Puissance.
-6 : C’est un traquenard ! Posez un jeton de Ténacité sur chaque monstre qui n’en possède pas.
-7 : Un combat épique. La Liche gagne un bonus de +3 Puissance.
-8 : La Liche gagne la partie !
+Échelle du destin > Évènement
+01 > C’est un traquenard !
+    Immédiat : Posez un jeton de Ténacité sur chaque monstre qui n’en possède pas.
+02 > Toute fuite est impossible.
+    Permanent : Les cartes situées dans les deux couloirs extérieurs gagnent un bonus de +1 Puissance.
+03 > Cri dans la nuit, la Liche vous atteint par magie.
+    Immédiat : Un aventurier de votre choix perd 1 jeton de Mana.
+04 > Rien de ne passe
+05 > Union d’outre-tombe.
+    Permanent : Les mortsvivants gagnent un bonus de +1 Puissance.
+06 > C’est un traquenard !
+    Immédiat : Posez un jeton de Ténacité sur chaque monstre qui n’en possède pas.
+07 > Un combat épique.
+    Permanent : La Liche gagne un bonus de +3 Puissance.
+08 > La Liche gagne la partie !
+
+
+AIV.2. Scénarios pour La forge des enfers
+
+AIV.2.1. Tu sens le froid de l'acier
+Scénario facile
+Échelle du destin > Évènement
+01 > Les Peaux-Vertes se mettent en marche.
+    Permanent : Les Peaux-Vertes gagnent un bonus de +1 Puissance.
+02 > Combat mental.
+    Permanent : Les monstres Psi gagnent un bonus de +1 en Puissance.
+03 > Rien de ne passe
+04 > Invocation générale.
+    Permanent : Les démons gagnent un bonus de +1 Puissance.
+05 > Rien de ne passe
+06 > Ordre de bataille.
+    Permanent : Les cartes situées dans le ou les couloirs centraux gagnent un bonus de +1 Puissance.
+07 > Rien de ne passe
+08 > Rien de ne passe
+09 > Destruction.
+    Immédiat : Toutes vos armes et armures sont détruites.
+10 > Tzu gagne la partie !
+
+AIV.2.2. Alliance démoniaque
+Scénario moyen
+Échelle du destin > Évènement
+01 > Les Peaux-Vertes se mettent en marche.
+    Permanent : Les Peaux-Vertes gagnent un bonus de +1 Puissance.
+02 > Invocation générale.
+    Permanent : Les démons gagnent un bonus de +1 Puissance.
+03 > Rien de ne passe.
+04 > Dernier rempart.
+    Permanent : Toutes les cartes gagnent un bonus de +1 Puissance.
+05 > Prouesses technologiques.
+    Permanent : Les pièges gagnent un bonus de +1 Puissance.
+06 > Rien de ne passe
+07 > Rien de ne passe
+08 > Destruction.
+    Immédiat : Toutes vos armes et armures sont détruites.
+09 > Tzu gagne la partie !
+
+AIV.2.3. L'impossible combat
+Scénario difficile
+Échelle du destin > Évènement
+01 > Les Peaux-Vertes se mettent en marche.
+    Permanent : Les Peaux-Vertes gagnent un bonus de +1 Puissance.
+02 > Dernier rempart.
+    Permanent : Toutes les cartes gagnent un bonus de +1 Puissance.
+03 > Invocation générale.
+    Permanent : Les démons gagnent un bonus de +1 Puissance.
+04 > Rien de ne passe
+05 > Rien de ne passe
+06 > Prouesses technologiques.
+    Permanent : Les pièges gagnent un bonus de +1 Puissance.
+07 > Destruction.
+    Immédiat : Toutes vos armes et armures sont détruites.
+08 > Tzu gagne la partie !
+
+
+AIV.3. Scénarios pour L'antre de la folie
+
+AIV.3.1. Belle chemise
+Scénario facile
+Échelle du destin > Évènement
+01 > Les Peaux-Vertes se mettent en marche.
+    Permanent : Les Peaux-Vertes gagnent un bonus de +1 Puissance.
+02 > L'oeil vous surveille.
+    Permanent : Les bulloeils gagnent un bonus de +1 Puissance.
+03 > Rien de ne passe.
+04 > Combat mental.
+    Permanent : Les monstres Psi gagnent un bonus de +1 en Puissance.
+05 > Rien de ne passe.
+06 > Prouesses technologiques.
+    Permanent : Les pièges gagnent un bonus de +1 Puissance.
+07 > Rien de ne passe.
+08 > Rien de ne passe.
+09 > L'oeil vous surveille.
+    Permanent : Les bulloeils gagnent un bonus de +1 Puissance.
+10 > Lens gagne la partie !
+
+AIV.3.2. Un, deux, trois, nous irons au bois...
+Scénario moyen
+Échelle du destin > Évènement
+01 > Les Peaux-Vertes se mettent en marche.
+    Permanent : Les Peaux-Vertes gagnent un bonus de +1 Puissance.
+02 > L'oeil vous surveille.
+    Permanent : Les bulloeils gagnent un bonus de +1 Puissance.
+03 > Rien de ne passe.
+04 > Prouesses technologiques.
+    Permanent : Les pièges gagnent un bonus de +1 Puissance.
+05 > Invocation générale.
+    Permanent : Les démons gagnent un bonus de +1 Puissance.
+06 > Rien de ne passe.
+07 > Rien de ne passe.
+08 > L'oeil vous surveille.
+    Permanent : Les bulloeils gagnent un bonus de +1 Puissance.
+09 > Lens gagne la partie !
+
+AIV.3.3. Sombres fous
+Scénario difficile
+Échelle du destin > Évènement
+01 > Les Peaux-Vertes se mettent en marche.
+    Permanent : Les Peaux-Vertes gagnent un bonus de +1 Puissance.
+02 > L'oeil vous surveille.
+    Permanent : Les bulloeils gagnent un bonus de +1 Puissance.
+03 > Prouesses technologiques.
+    Permanent : Les pièges gagnent un bonus de +1 Puissance.
+04 > Rien de ne passe.
+05 > Rien de ne passe.
+06 > Dernier rempart.
+    Permanent : Toutes les cartes gagnent un bonus de +1 Puissance.
+07 > L'oeil vous surveille.
+    Permanent : Les bulloeils gagnent un bonus de +1 Puissance.
+08 > Lens gagne la partie !
