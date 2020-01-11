@@ -9,7 +9,7 @@
 ![Drapeau français](https://github.com/orouet/HIK-Rules/blob/master/site/img/flags/fr-FR.png?raw=true)
 Vous retrouverez ici une copie des règles officielles de **Hero Immortal King** dans différentes langues et différents formats.
 
-+ Une [version actualisée en continu des règles](rules/versions/living/hik-living_rules-fr.txt) (Living Rules) dans [plusieurs formats](rules/versions/living/).
++ Une [version actualisée en continu des règles](rules/versions/living/hik-living_rules-fr.md) (Living Rules) dans [plusieurs formats](rules/versions/living/).
 + Les règles officielles sont disponibles dans [plusieurs formats](rules/versions/official)
 + Des [guides stratégiques](rules/guides/)
 + Des [aides de jeu](rules/aids/)
