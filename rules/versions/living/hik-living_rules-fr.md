@@ -3,16 +3,13 @@ Hero Immortal King
 # 1\. BUT DU JEU
 
 Un joueur va diriger une équipe d’aventuriers. On le nomme le joueur
-aventurier.
-
-Le joueur aventurier doit combattre et vaincre le monstre final du
-donjon.
+aventurier. Le joueur aventurier doit combattre et vaincre le monstre
+final du donjon.
 
 L’autre joueur va diriger le donjon, ses pièges, ses créatures et son
-monstre final. On le nomme le maître du donjon.
-
-Le maître du donjon doit mettre en déroute ou bloquer le groupe
-d’aventuriers afin qu’il n’atteigne pas son but.
+monstre final. On le nomme le maître du donjon. Le maître du donjon doit
+mettre en déroute ou bloquer le groupe d’aventuriers afin qu’il
+n’atteigne pas son but.
 
 # 2\. DESCRIPTION DU MATÉRIEL
 
@@ -489,6 +486,8 @@ Abunakkashii est donc battu.
 </tbody>
 </table>
 
+# 
+
 # Annexe II : jeu construit
 
 Vous pouvez combiner plusieurs boîtes de Hero I.K. et ainsi créer vos
@@ -521,6 +520,8 @@ aventurier.
 \- une carte indiquée comme étant unique ne peut être présente qu’en un
 seul exemplaire.
 
+# 
+
 # Annexe III : jeu en solitaire
 
 Hero I.K. peut aussi être joué en solitaire. La plupart des règles sont
@@ -529,6 +530,25 @@ solitaire, le joueur conçoit un groupe d’aventuriers et tente de tuer le
 monstre final. S’il n’y parvient pas, il a perdu.
 
 ## AIII.1. Préparation de la partie
+
+Choisissez un des scénarios présentés en Annexe IV, chaque scénario vous
+indiquera :
+
+  - la liste des cartes à ajouter au donjon
+  - la liste des cartes autorisées pour constituer votre groupe
+    d’aventuriers
+  - l’échelle du destin
+  - les règles additionnelles
+
+## AIII.1.1. Construire le donjon
+
+Le joueur mélange les 48 cartes donjon et forme 3 paquets face cachée au
+milieu de la table. Chaque paquet doit comporter 16 cartes. Ces trois
+paquets représentent les trois couloirs que les aventuriers devront
+emprunter pour parvenir à leur but. Le joueur ne peut en prendre
+connaissance. Il place la carte monstre final face visible devant lui.
+
+## AIII.1.2. Constituer le groupe d’aventuriers
 
 Le joueur doit choisir les personnages avec lesquels il va affronter le
 donjon. Il doit choisir entre 1 et 4 personnages. Il place devant lui,
@@ -539,14 +559,7 @@ moins). Les cartes équipement choisies sont placées face cachée sur la
 table. Le joueur aventurier peut les regarder quand il le désire, mais
 ne les révélera que lorsqu’il les utilisera.
 
-Après avoir constitué votre groupe, choisissez un des scénarios
-présentés ci-après.
-
-Le joueur mélange les 48 cartes donjon et forme 3 paquets face cachée au
-milieu de la table. Chaque paquet doit comporter 16 cartes. Ces trois
-paquets représentent les trois couloirs que les aventuriers devront
-emprunter pour parvenir à leur but. Le joueur ne peut en prendre
-connaissance. Il place la carte monstre final face visible devant lui.
+## AIII.1.3. 
 
 Le joueur commence la partie avec 5 jetons de Courage devant lui et 1
 jeton de Mana sur chacune de ses cartes aventurier.
@@ -561,13 +574,52 @@ placées respectivement devant les 3 paquets symbolisant le chemin gardé
 
 ### AIII.2.1. Phase de construction
 
-Rien ne se passe
+Rien ne se passe.
 
 ### AIII.2.2. Phase d'équipement
 
-Identique à la version 2 joueurs
+Durant cette phase, le joueur peut révéler ses cartes équipement. Les
+personnages peuvent aussi utiliser leurs pouvoirs ultimes. Dans tous les
+cas, le coût d’activation de toutes ces actions doit être réglé en
+défaussant des cartes donjon portant les symboles correspondants (voir
+page 4).
+
+Sauf précisions contraires, les cartes donjon éliminées pendant cette
+phase via une quête ou un pouvoir ultime sont gérées comme celles
+éliminées durant la phase de combat.
 
 ### AIII.2.3. Phase de combat
+
+Le groupe d’aventuriers choisit un couloir et tente de vaincre la
+rencontre ainsi déterminée. Si la carte correspondant à ce couloir est
+face visible, le joueur aventurier sait déjà à qui il a affaire. Si ce
+n’est pas le cas, le joueur retourne la carte face visible au début du
+combat.
+
+Tous les aventuriers combattent en même temps et avec un seul jet de dé
+la rencontre ainsi dévoilée. À moins qu’une règle spéciale ne précise le
+contraire, le combat est résolu en jetant 1d6.
+
+Les personnages peuvent utiliser leurs dons, leurs armes et armures déjà
+révélés, les pouvoirs temporaires (en dépensant leur Mana) et
+d’éventuelles potions avant ou après avoir jeté le dé. On ne peut pas
+révéler d’objets, déclencher de pouvoir ultime ou utiliser des quêtes
+durant cette phase.
+
+Si le résultat obtenu est supérieur ou égal à la Puissance de la carte
+donjon, cette dernière est vaincue et le joueur aventurier la conserve
+près de lui. Il pourra la dépenser ultérieurement pour payer le coût
+d’une quête, d’un objet ou d’un pouvoir ultime. Le joueur doit ensuite
+remplacer la carte ainsi vaincue par la carte du dessus du paquet qui se
+trouve juste derrière. Si la carte donjon vaincue porte une icône Mana,
+le joueur aventurier peut placer 1 jeton de Mana sur un de ses
+personnages.
+
+Si le résultat final obtenu (après modificateurs éventuels) est
+inférieur à la Puissance de la carte donjon, les personnages doivent
+reculer pour panser leurs blessures et reprendre des forces. Le joueur
+aventurier perd immédiatement 1 jeton de Courage. La carte attaquée
+reste en place (exception : les pièges, voir encadré).
 
 Le donjon ne gagne pas de jeton de Peur lorsque le joueur obtient un 1
 sur un dé.
@@ -593,9 +645,14 @@ déclenchés qu’une seule fois).
 
 ### AIII.2.4. Phase de fin de tour
 
-Identique à la version 2 joueurs
+Durant cette phase, si le joueur ne possède plus aucun jeton de Courage,
+la partie est terminée et il a perdu. Si le monstre final vient d’être
+tué et que le joueur possède encore au moins 1 jeton de Courage, il a
+gagné la partie. Dans tous les autres cas, on entame un nouveau tour.
 
-# AIV. Scénarios solo
+# 
+
+# Annexe IV : Scénarios solo
 
 ## AIV.1. Scénarios pour Le repaire de la liche
 
